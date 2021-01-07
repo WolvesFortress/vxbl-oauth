@@ -1,4 +1,4 @@
-module xboxauth
+module main
 
 import vweb
 import xbl
