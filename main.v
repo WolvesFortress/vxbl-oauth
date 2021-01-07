@@ -1,4 +1,4 @@
-module vxbl-oauth
+module xboxauth
 
 import vweb
 import xbl
@@ -13,7 +13,7 @@ struct App {
 	vweb.Context
 mut:
 	cnt   int
-	// pub:
+pub mut:
 	login xbl.LoginData
 }
 
