@@ -1,4 +1,4 @@
-module main
+module vxbl-oauth
 
 import vweb
 import xbl
